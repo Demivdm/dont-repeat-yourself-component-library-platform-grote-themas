@@ -1,5 +1,7 @@
 # Platform Grote Thema's README
 
+![image](https://github.com/Demivdm/dont-repeat-yourself-component-library-platform-grote-themas/assets/112861166/8892ab6b-b277-4c09-a08e-35bd453ddb67)
+
 ## Inhoudsopgave
 
   * [Beschrijving](#beschrijving)
